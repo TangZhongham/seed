@@ -1,0 +1,2 @@
+# seed
+one way out
